@@ -1,0 +1,36 @@
+body {
+	background-color: #f4f4f4;
+
+}
+
+#clock {
+	color: #fff;
+	font-size:  195px;
+	background-color:  #000;
+	margin: 0 auto;
+	font-family: Arial;
+	text-align: center;
+	margin-left: 15%; 
+	margin-right: 15%;
+	text-transform: uppercase;
+	transition: all ease 1s;
+
+}
+
+#clock:hover {
+	transform: scale(1.2);
+	transform: rotate(90deg);
+	transition: all ease 1s;
+}
+
+#banner {
+	color: #fefefe;
+	font-size:  50px;
+	text-align: center;
+	background-color: #Eb6832;
+	margin: 0 auto;
+	margin-left: 15%; 
+	margin-right: 15%;
+	font-family: Arial;
+	text-transform: uppercase;
+}
